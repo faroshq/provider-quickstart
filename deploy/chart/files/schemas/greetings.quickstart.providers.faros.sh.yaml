@@ -1,9 +1,9 @@
 apiVersion: apis.kcp.io/v1alpha1
 kind: APIResourceSchema
 metadata:
-  name: v260522-001.greetings.quickstart.providers.kedge.faros.sh
+  name: v260522-001.greetings.quickstart.providers.faros.sh
 spec:
-  group: quickstart.providers.kedge.faros.sh
+  group: quickstart.providers.faros.sh
   names:
     kind: Greeting
     listKind: GreetingList
