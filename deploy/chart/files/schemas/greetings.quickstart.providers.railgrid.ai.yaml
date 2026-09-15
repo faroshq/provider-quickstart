@@ -1,9 +1,9 @@
 apiVersion: apis.kcp.io/v1alpha1
 kind: APIResourceSchema
 metadata:
-  name: v260522-001.greetings.quickstart.providers.faros.sh
+  name: v260522-001.greetings.quickstart.providers.railgrid.ai
 spec:
-  group: quickstart.providers.faros.sh
+  group: quickstart.providers.railgrid.ai
   names:
     kind: Greeting
     listKind: GreetingList
